@@ -7,6 +7,7 @@ My Current Stack:
 
 - 🌱 I'm learning how to program like Full Stack Developer in Factoria F5 
 
+https://github-readme-streak-stats.herokuapp.com/?user=SaulAguinaga
 
 
 
