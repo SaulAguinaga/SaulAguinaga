@@ -1,7 +1,7 @@
 ### Hi! 👋, my name is Saúl
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotcore.info%2Fbabki%2Fgif-animation-to-learn-this-way.htm&psig=AOvVaw3Rdc3gnsUuCBH4WDKjhGst&ust=1680163659096000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLibpcHXgP4CFQAAAAAdAAAAABAp" width="600" height="300"/>
 </div>
 
 My Current Stack:
