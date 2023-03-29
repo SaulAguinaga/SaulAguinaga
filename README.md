@@ -1,7 +1,11 @@
 ### Hi! 👋, my name is Saúl
+
 <br>
+
 - 🌱 I'm learning how to program like Full Stack Developer in Factoria F5 
+- 
 <br>
+
 <div align="center">
   <img src="https://media1.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif?cid=ecf05e47eymhuw5jpwuho1b17dkofzwt60dorzqxwii0cvjv&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
