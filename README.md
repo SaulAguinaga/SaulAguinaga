@@ -1,5 +1,9 @@
 ### Hi! 👋, my name is Saúl
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 My Current Stack:
 
 ![image](https://user-images.githubusercontent.com/116891045/228465190-064969ac-a86e-4b86-8c7e-cda3fac0eca1.png)
