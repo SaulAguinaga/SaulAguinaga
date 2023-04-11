@@ -1,7 +1,6 @@
 <div align="center">
 
 ### Hi! My name is Saúl
-  I'm Full Stack Developer 
 I'm Full Stack Developer 
   <br>
   <br>
